@@ -1,3 +1,3 @@
 - Hi,my name is Carlos Pérez Álvarez
 - I’m interested in Web Desing
-- I’m currently learning SEO optimization
+- I’m currently learning React App
